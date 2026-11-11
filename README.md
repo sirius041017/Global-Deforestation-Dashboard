@@ -97,33 +97,29 @@ deforestation analysis.*
 
 ## 💡 Key Insights
 
-The dashboard supports several analytical observations:
+### 1. Wildfire Has Become a Major Driver of Tree Cover Loss
+- Global tree cover loss associated with wildfire increased sharply toward 2024, reaching the highest level shown in the 2001–2024 trend chart.
+- Wildfire accounted for **68.7% of tree cover loss in North America** and **64.8% in Europe** in 2024, highlighting its significant regional impact.
 
-**1. Geographical differences**
+### 2. Deforestation Drivers Vary Significantly Across Regions
+- In **Africa**, shifting cultivation (49.7%) and permanent agriculture (41.5%) were the leading drivers of tree cover loss in 2024.
+- In **Asia**, permanent agriculture accounted for 48.2%, followed by logging at 24.7%.
+- These differences suggest that forest management strategies should be adapted to regional drivers rather than applying a single global approach.
 
-Tree cover loss differs across countries and regions,
-highlighting the importance of geographical comparisons.
+### 3. South America Faces Multiple Sources of Forest Loss
+- In 2024, wildfire contributed **52.3%** of tree cover loss in South America, followed by permanent agriculture at **37.9%**.
+- This highlights the importance of addressing both fire-related disturbances and agricultural land-use pressures.
 
-**2. Diversity of deforestation drivers**
+### 4. Tree Cover Loss Is Unevenly Distributed Geographically
+- The regional comparison shows that North America and South America recorded some of the largest total tree cover losses in 2024, each approximately **7.5 million hectares**.
+- Interactive geographical visualizations enable users to compare the scale and composition of tree cover loss across regions.
 
-Different drivers contribute to forest loss, making
-driver-level analysis important for understanding
-deforestation patterns.
+### 5. Country-Level Analysis Reveals More Specific Patterns
+- Australia recorded approximately **0.2 million hectares** of tree cover loss in 2024.
+- Wildfire was its dominant driver, contributing **77.5%** of the country's total tree cover loss.
+- Country-specific filters and KPI indicators help connect broader global trends with local environmental conditions.
 
-**3. Country-level exploration**
-
-Interactive geographical visualizations allow users
-to investigate individual countries and compare
-their deforestation characteristics.
-
-**4. Importance of interactive analysis**
-
-Combining maps with comparative charts helps users
-identify patterns that may be difficult to recognize
-from raw data alone.
-
-*Specific country rankings and quantitative findings
-will be added after validating the dashboard results.*
+**Important Note:** Tree cover loss includes both temporary and permanent disturbances. Therefore, it should not be interpreted as equivalent to permanent deforestation.
 
 ---
 
