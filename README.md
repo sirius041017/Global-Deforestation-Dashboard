@@ -123,19 +123,6 @@ deforestation analysis.*
 
 ---
 
-## 📁 Repository Structure
-
-Global-Deforestation-Dashboard/
-|
-|-- README.md
-|-- Global-Deforestation-Dashboard.twbx
-|-- tree-cover-loss-by-dominant-driver.csv
-|
-`-- images/
-    `-- dashboard-preview.png
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.twbx` file from this repository.
@@ -155,18 +142,3 @@ This project demonstrates practical experience in:
 - Geographical data visualization
 - Comparative analysis
 - Data storytelling and insight communication
-
----
-
-## 👤 Author
-
-**Zhou Dianfeng**
-
-Business Analytics Student
-
-Interested in Data Analytics, AI, Machine Learning
-and Product Management.
-
-**LinkedIn:**
-https://www.linkedin.com/in/dianfeng-zhou-71a64402
-
